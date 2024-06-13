@@ -1,5 +1,5 @@
 connector:
-  max_delta_time: '100000'
+  max_delta_time_in_hours: '100000'
 
 source:
   endpoint: 'your_endpoint'
